@@ -1,0 +1,11 @@
+C:\Users\Mehtab Alma\Desktop\my-compiler\my-compiler\bin\Debug\netcoreapp2.1\my-compiler.deps.json
+C:\Users\Mehtab Alma\Desktop\my-compiler\my-compiler\bin\Debug\netcoreapp2.1\my-compiler.runtimeconfig.json
+C:\Users\Mehtab Alma\Desktop\my-compiler\my-compiler\bin\Debug\netcoreapp2.1\my-compiler.runtimeconfig.dev.json
+C:\Users\Mehtab Alma\Desktop\my-compiler\my-compiler\bin\Debug\netcoreapp2.1\my-compiler.dll
+C:\Users\Mehtab Alma\Desktop\my-compiler\my-compiler\bin\Debug\netcoreapp2.1\my-compiler.pdb
+C:\Users\Mehtab Alma\Desktop\my-compiler\my-compiler\obj\Debug\netcoreapp2.1\my-compiler.csprojAssemblyReference.cache
+C:\Users\Mehtab Alma\Desktop\my-compiler\my-compiler\obj\Debug\netcoreapp2.1\my-compiler.csproj.CoreCompileInputs.cache
+C:\Users\Mehtab Alma\Desktop\my-compiler\my-compiler\obj\Debug\netcoreapp2.1\my-compiler.AssemblyInfoInputs.cache
+C:\Users\Mehtab Alma\Desktop\my-compiler\my-compiler\obj\Debug\netcoreapp2.1\my-compiler.AssemblyInfo.cs
+C:\Users\Mehtab Alma\Desktop\my-compiler\my-compiler\obj\Debug\netcoreapp2.1\my-compiler.dll
+C:\Users\Mehtab Alma\Desktop\my-compiler\my-compiler\obj\Debug\netcoreapp2.1\my-compiler.pdb

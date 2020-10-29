@@ -1,0 +1,54 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Mehtab Alma\\Desktop\\my-compiler\\my-compiler\\my-compiler.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Mehtab Alma\\Desktop\\my-compiler\\my-compiler\\my-compiler.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Mehtab Alma\\Desktop\\my-compiler\\my-compiler\\my-compiler.csproj",
+        "projectName": "my-compiler",
+        "projectPath": "C:\\Users\\Mehtab Alma\\Desktop\\my-compiler\\my-compiler\\my-compiler.csproj",
+        "packagesPath": "C:\\Users\\Mehtab Alma\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Mehtab Alma\\Desktop\\my-compiler\\my-compiler\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Mehtab Alma\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.1"
+        ],
+        "frameworks": {
+          "netcoreapp2.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.1": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "target": "Package",
+              "version": "[2.1.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}
